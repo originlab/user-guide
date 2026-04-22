@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<book wiki="howto" folder="GettingStarted">
+<book wiki="howto" chm="GettingStarted">
   <page title="User Guide" file="Category/Origin_9.1_Getting_Started_Booklet.html" url="User-Guide" src="Category:Origin_9.1_Getting_Started_Booklet">
     <page title="Introduction" file="OriginLab/Introduction.html" url="User-Guide/GSB-Intro" src="OriginLab:Introduction"/>
     <page title="Installing and Updating Origin" file="OriginLab/Origin_Installation_and_Startup.html" url="User-Guide/Installation-Startup" src="OriginLab:Origin_Installation_and_Startup"/>
